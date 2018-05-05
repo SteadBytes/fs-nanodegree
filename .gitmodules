@@ -1,0 +1,21 @@
+[submodule "item-catalog"]
+	path = item-catalog
+	url = https://github.com/SteadBytes/item-catalog.git
+[submodule "logs-analysis"]
+	path = logs-analysis
+	url = https://github.com/SteadBytes/logs-analysis.git
+[submodule "multi-user-blog"]
+	path = multi-user-blog
+	url = https://github.com/SteadBytes/multi-user-blog.git
+[submodule "movie-website"]
+	path = movie-website
+	url = https://github.com/SteadBytes/movie-website.git
+[submodule "portfolio-site"]
+	path = portfolio-site
+	url = https://github.com/SteadBytes/portfolio-site.git
+[submodule "neighbourhood-map"]
+	path = neighbourhood-map
+	url = https://github.com/SteadBytes/neighbourhood-map.git
+[submodule "meet-n-eat"]
+	path = meet-n-eat
+	url = https://github.com/SteadBytes/meet-n-eat.git
